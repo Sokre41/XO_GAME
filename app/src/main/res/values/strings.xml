@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XO_GAME</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reset">Reset</string>
+    <string name="set_player1_name">Set player 1 name</string>
+    <string name="set_player2_name">Set player 2 name</string>
+    <string name="p1_no_name">Please set name!!!</string>
+    <string name="p2_no_name">Please set name!!!</string>
+    <string name="name_set">Name set!!!</string>
+</resources>
